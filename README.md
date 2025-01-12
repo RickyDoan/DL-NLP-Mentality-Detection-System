@@ -1,2 +1,2 @@
 * This is the giff file :
-  ![Uploading mentality-detection.gif…]()
+* ![Uploading mentality-detection.gif…]()
