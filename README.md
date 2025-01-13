@@ -1,6 +1,6 @@
 # Mentality Detection Status with HuggingFace transform BERTForSequenceClassification
 ## Project Overview
-Detect mental health-related sentiments from text data using deep learning with the pre-trained `bert-base-uncased` model. The model is trained on Google Colab and deployed as a web app using Streamlit for simplicity and efficiency.
+Detect mental health-related sentiments from text data using deep learning with the pre-trained BertForSequenceClassification `bert-base-uncased` model. The model is trained on Google Colab and deployed as a web app using Streamlit for simplicity and efficiency.
 
 * ![Uploading mentality-detection.gif…](https://github.com/RickyDoan/DL-NLP-Mentality-Detection-System/blob/main/mentality-detection.gif)
 ---
